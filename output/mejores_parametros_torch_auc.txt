@@ -1,0 +1,6 @@
+nodes1=64
+nodes2=32
+drop_rate=0.2
+lr=0.01
+opt=adam
+epochs=100

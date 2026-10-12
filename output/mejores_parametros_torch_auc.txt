@@ -1,4 +1,0 @@
-nodes1=128
-nodes2=64
-dropout=0.3
-lr=0.005

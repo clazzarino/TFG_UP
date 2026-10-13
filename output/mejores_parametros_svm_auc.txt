@@ -1,2 +1,0 @@
-kernel=linear
-cost=1

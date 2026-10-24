@@ -1,6 +1,0 @@
-nodes1=32
-nodes2=16
-drop_rate=0.4
-lr=0.05
-opt=sgd
-epochs=150
